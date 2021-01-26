@@ -1,0 +1,1 @@
+# collectioncache-spring-boot-starter
